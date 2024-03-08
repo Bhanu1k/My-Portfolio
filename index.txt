@@ -1,0 +1,110 @@
+Myportfolio - Personal Portfolio
+
+# sidebar
+
+alt = Bhanu.kumar
+Bhanu kumar
+Web developer
+
+Show Contacts
+
+Email
+bhanukumar027@gmail.com
+
+Phone
++91 9315777841
+
+Birthday
+Sep 08, 2002
+
+Location
+Bhubaneswar-Odisha(India)
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Detail-oriented individual with a BTech in Software Engineering, looking for a
+software developer position in a fast-growing company to utilize my technical
+skills and working knowledge of software applications, development and
+design. coding ninjas linkedin.
+
+## service
+
+What i'm doing
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for  Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+# resume
+
+Resume
+
+Education
+
+C.V RAMAN GLOBAL UNIVERSITY (ODISHA-BHUBANESWAR|India)
+2021 — 2025
+B.Tech(Software.Engineering)
+
+SATYADEO SR.SEC.SCHOOL PIPRA,Supaul
+2018 — 2021
+PCM(68%)
+
+R K B A HIGH SCHOOL TRIBENIGANJ, Supaul
+2017 — 2018
+62%
+
+Experience
+
+National Service Scheme (NSS)
+2021 — Current
+
+National Cadet Corps (NCC)
+2023 — 2024
+
+
+Web designer
+2021 — 2025
+
+My skills
+
+Web design
+70%
+Leadership
+80%
+Teamwork
+90%
+WordPress
+60%
+
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
